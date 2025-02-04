@@ -5,7 +5,6 @@ DeepLib: A Versatile, Open-Source Deep Learning Library
 DeepLib is an innovative and flexible Python library designed to make deep learning accessible and efficient for everyone, from beginners to experts. Leveraging state-of-the-art techniques and a modular architecture, DeepLib empowers developers to create custom neural networks and optimize their models with ease.
 
 Key Features:
-
     High Flexibility: DeepLib's modular architecture allows developers to easily build and customize neural networks, enabling tailored solutions for various applications.
 
     User-Friendly Interface: With an intuitive and simple interface, DeepLib ensures that developers can quickly develop, debug, and deploy their models.
@@ -19,8 +18,8 @@ Key Features:
     Rich Ecosystem: With a robust ecosystem of complementary libraries and tools, DeepLib enhances the development experience and accelerates model improvement.
 
 Why Choose DeepLib?
-
 DeepLib is the go-to library for developers seeking a powerful, flexible, and user-friendly solution for deep learning. Whether you're working on academic research, industry projects, or personal experiments, DeepLib has the features and capabilities to meet your needs. Join our community and contribute to the evolution of deep learning technology.
+
 Installation:
 
 Install DeepLib using pip:
