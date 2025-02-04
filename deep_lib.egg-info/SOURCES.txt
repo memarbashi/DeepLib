@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+deep_lib.egg-info/PKG-INFO
+deep_lib.egg-info/SOURCES.txt
+deep_lib.egg-info/dependency_links.txt
+deep_lib.egg-info/requires.txt
+deep_lib.egg-info/top_level.txt
+static/script.js
+static/styles.css
+templates/index.html
+tests/test_script.py

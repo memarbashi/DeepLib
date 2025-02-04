@@ -1,0 +1,7 @@
+include README.md
+include templates/*.html
+include static/*.css
+include static/*.js
+include README.md
+include LICENSE.txt
+include requirements.txt
