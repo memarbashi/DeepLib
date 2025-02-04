@@ -23,7 +23,7 @@ DeepLib is the go-to library for developers seeking a powerful, flexible, and us
 Installation:
 
 Install DeepLib using pip:
-pip install deep_lib
+```pip install deep_lib
 
 
 Usage Example
