@@ -45,3 +45,10 @@ model.train(X, y, epochs=1000)
 # Make predictions
 predictions = model.predict(X)
 print(predictions)
+
+
+Contributing
+
+Contributions are welcome! Please read the [contributing guidelines](https://contributing.md/) first.
+
+This project is licensed under the MIT License - see the [License](https://LICENSE.txt) file for details.
