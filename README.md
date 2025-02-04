@@ -23,8 +23,7 @@ DeepLib is the go-to library for developers seeking a powerful, flexible, and us
 
 Install DeepLib using pip:
 
-```bash
-pip install deep_lib
+
 
 Usage Example
 
@@ -46,3 +45,7 @@ model.train(X, y, epochs=1000)
 # Make predictions
 predictions = model.predict(X)
 print(predictions)
+
+
+```bash
+pip install deep_lib
